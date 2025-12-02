@@ -1,6 +1,6 @@
 # ⚡️ STM32F405RGT6 Controller Design
 
-![Controller Board Image Placeholder]([https://via.placeholder.com/600x300?text=Custom+STM32F405+Controller+PCB+Render](https://drive.google.com/file/d/1WejSWMD9wfBn6vvBd5DN38Q0o6gYwlGU/view?usp=sharing))
+![Controller Board Image Placeholder]([(https://drive.google.com/file/d/1WejSWMD9wfBn6vvBd5DN38Q0o6gYwlGU/view?usp=sharing)])
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Design Tool](https://img.shields.io/badge/Designed%20in-KiCad-207396.svg)](https://www.kicad.org/)
