@@ -1,2 +1,0 @@
-21:18:38: File 'C:\KiCad\share\kicad\symbols\MCU_ST_STM32F4.bak' couldn't be removed (error 5: Access is denied.)
-21:18:38: Failed to copy the file 'C:\KiCad\share\kicad\symbols\MCU_ST_STM32F4.kicad_sym' to 'C:\KiCad\share\kicad\symbols\MCU_ST_STM32F4.bak' (error 5: Access is denied.)
