@@ -1,19 +1,19 @@
 # ⚡️ STM32F405RGT6 Controller Design
 
 ![3D Render of the Custom PCB](assets/pcb_design.png)
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Design Tool](https://img.shields.io/badge/Designed%20in-KiCad-207396.svg)](https://www.kicad.org/)
 
 ***
 
 ## 🌟 Overview
 
-This repository contains the complete **hardware design files** for a custom controller board built around the powerful **STM32F405RGT6** microcontroller.
+I initially made this design for a 36V/350W motor controller but then the project was dropped, as the design is robust and flexible, it can be used in diy project or some design reference for people.
 
-The design is engineered for high-performance control applications and features integrated **RF wireless communication** capabilities, making it suitable for projects such as remote control systems, robotics, or advanced data acquisition platforms.
+I have also included an rf module for connectivity (can be used for drones). 
 
-All schematics and PCB layout files were created using the **KiCad** open-source EDA suite.
+Also there can be design issues in this like missing mouting holes in the pcb design(will be fixed in future revisions).
+
+All schematics and PCB layout files were created using the **KiCad**.
 
 ***
 
