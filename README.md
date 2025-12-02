@@ -1,6 +1,7 @@
 # ⚡️ STM32F405RGT6 Controller Design
 
 ![3D Render of the Custom PCB](assets/pcb_design.png)
+![Schematics](assets/stm32f405rgt6.pdf)
 [![Design Tool](https://img.shields.io/badge/Designed%20in-KiCad-207396.svg)](https://www.kicad.org/)
 
 ***
